@@ -53,7 +53,7 @@
       <li class="nav-item">
         <a class="nav-link" href="{{route('sub.index')}}">
           <i class="nav-icon far fa-circle text-info"></i>
-          <span>Sub Category</span>
+          <span>Sub Category </span>
         </a>
       </li>
 
