@@ -15,4 +15,4 @@ jobs:
         server: ftpupload.net
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        server-dir: /prolificmarketplace.great-site.net/ 
+        server-dir: /laravel/ 
